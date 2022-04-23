@@ -5,17 +5,17 @@ Indicaciones: Pedir responder cada una de las preguntas de manera breve y clara.
 
 Preguntas:
 
-1. ¿Qué es el hipertexto? (valor 1.0)Enlaces y conexiones
+1. ¿Qué es el hipertexto? (valor 1.0)Enlaces y conexiones(conjunto estructurado de textos graficos , unidos entre sí)
 
-2. ¿Qué es la hipermedia? (valor 1.0) se caracteriza por videos, imagenes 
+2. ¿Qué es la hipermedia? (valor 1.0) se caracteriza por videos, imagenes( conjunto estructurado de diversos medios como textos )
+  
 
 
-3. ¿Qué características tiene un lenguaje de etiquetas? (valor 1.0) R= texto  plano
+3. ¿Qué características tiene un lenguaje de etiquetas? (valor 1.0) R= texto  plano(lenguaje de etiquetas , no definen algunos aspectos basicos presentes en los lenguajes de programacion , como en el caso de funciones aritmeticas  o el uso de variables)
 
 4. ¿Cuáles son las ventajas que introduce HTML5? (valor 1.0) tiene un lenguaje puro, escribir editor, 
 
-5. ¿Cuál es la función del motor de renderizado de un navegador web? (valor 1.0)  en javascrit se recibe el codigo traducir la pagina 
-
+5. ¿Cuál es la función del motor de renderizado de un navegador web? (valor 1.0) traducir esos datos en texto e imagenes , escritos en lenguaje de marcas de hipertexto html y los navegadores web leen este código para construir lo que vemos.
 6. Menciona al menos 2 tecnologías de software para el desarrollo de páginas web y explícalas brevemente (valor 1.0)
 
 ## 2. HERRAMIENTAS PARA LA CREACIÓN DE PÁGINAS WEB
@@ -101,7 +101,7 @@ consideren correcta.
     
 Preguntas:
     
-1. ¿Qué significa HTML? (valor 0.24)
+1. ¿Qué significa HTML? (valor 0.24) Es un lenguaje de marcado utilizado para definir la Estructura y contenido de una página o Documento web, 
     
        
         
@@ -111,7 +111,7 @@ Preguntas:
     
        
        
-        d) h1
+       a)heading
     
 3. ¿Cuál es el elemento HTML correcto para insertar un salto de línea? (valor 0.24)
 
@@ -121,9 +121,8 @@ Preguntas:
 
 4. ¿Cuál es el HTML correcto para agregar un color de fondo? (valor 0.24)
 
-       
-       
         c) <body style="background-color:yellow;">
+        
     
 5. Elija el elemento HTML correcto para definir texto importante (valor 0.24)
     
