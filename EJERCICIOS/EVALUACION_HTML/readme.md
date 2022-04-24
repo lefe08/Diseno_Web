@@ -214,7 +214,7 @@ Preguntas:
           b) <body style="background-image:url(background.gif)">
          
   
-19. Los comentarios HTML comienzan con ![image](https://user-images.githubusercontent.com/91554777/164576568-aa1ae841-a85f-486b-b286-be51bfc8cd4e.png) (valor 0.24)
+19. Los comentarios HTML comienzan con  (valor 0.24)
   
         a) Verdadero
        
