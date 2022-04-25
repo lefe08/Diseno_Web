@@ -103,9 +103,7 @@ Preguntas:
     
 1. ¿Qué significa HTML? (valor 0.24) Es un lenguaje de marcado utilizado para definir la Estructura y contenido de una página o Documento web, 
     
-       
-        
-        c) Hyper Text Markup Language
+    c) Hyper Text Markup Language
     
 2. Elige el elemento HTML correcto para el encabezado más grande: (valor 0.24)
     
@@ -139,7 +137,7 @@ Preguntas:
 
 7. ¿Cuál es el HTML correcto para crear un hipervínculo? (valor 0.24)
 
-        a) <a>https://adip.cdmx.gob.mx/</a>
+      d) <a url= "https://adip.cdmx.gob.mx"ADIP</a>
       
   
   
@@ -151,10 +149,7 @@ Preguntas:
   
 9. ¿Cuáles de estos elementos son todos elementos de table? (valor 0.24)
   
-          
-          
-          
-          d) table  tr  td
+         d) table  tr  td
   
 10. Los elementos inline normalmente se muestran sin comenzar una nueva línea.(valor 0.24)
   
@@ -214,7 +209,7 @@ Preguntas:
           b) <body style="background-image:url(background.gif)">
          
   
-19. Los comentarios HTML comienzan con  (valor 0.24)
+19. Los comentarios HTML comienzan con <!-- y terminan con -- >  (valor 0.24)
   
         a) Verdadero
        
