@@ -89,9 +89,9 @@ uno, y luego escríbelo correctamente. (cada respuesta vale 0.3, en total suman 
  Indicaciones: La siguiente imagen muestra el contenido de la página web del periodico
 The New York Times. Coloca los elementos semánticos de HTML5 dentro de cada uno de
 los recuadros según corresponda: (valor 0.3 cada una, total 1.8)
+![image](https://user-images.githubusercontent.com/101213081/165131623-db318ff8-8aa3-4234-8684-61f236c70f3c.png)
     
- ![imagen](https://user-images.githubusercontent.com/101213081/164756020-154c1396-a6d7-4375-81e4-f035e38be42f.png)
-    
+
 ## 4. LENGUAJE HTML
 
 Objetivo: Verificar el dominio de los elementos básicos en html para la realización de la
