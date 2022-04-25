@@ -39,7 +39,10 @@ Preguntas:
 4. ¿Qué extensión llevan los archivos que contienen instrucciones para aplicar estilos a un documento que contiene el código HTML de una página web? (valor 1.0)
 
 5. ¿Menciona al menos tres formatos de imagen que puedes incorporar dentro del código html5? (valor 1.0)
-
+    °1.PNG
+    °2.SVG
+    °3.BMP
+    
 6. Uno de los buenos hábitos para desarrollar nuestra página web es tener en
 distintas carpetas distintos tipos de archivo, por ejemplo, los archivos relacionados
 a imágenes en una carpeta, en otra los relacionados a multimedia, en otra a lo
