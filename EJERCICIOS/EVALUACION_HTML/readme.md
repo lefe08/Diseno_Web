@@ -5,9 +5,9 @@ Indicaciones: Pedir responder cada una de las preguntas de manera breve y clara.
 
 Preguntas:
 
-1. ¿Qué es el hipertexto? (valor 1.0)Enlaces y conexiones(conjunto estructurado de textos graficos , unidos entre sí)
+1. ¿Qué es el hipertexto? (valor 1.0)Enlaces y conexiones(conjunto estructurado de textos graficos , unidos entre sí), permite saltar de un punto a otro, en un mismo texto o a otro texto atraves de referencias.
 
-2. ¿Qué es la hipermedia? (valor 1.0) se caracteriza por videos, imagenes( conjunto estructurado de diversos medios como textos )
+2. ¿Qué es la hipermedia? (valor 1.0) se caracteriza por videos, imagenes( conjunto estructurado de diversos medios como textos, graficos,imagenes y sonidos unidos entre si por enlaces y conexiones logicas para a transmisión de una información.
   
 
 
