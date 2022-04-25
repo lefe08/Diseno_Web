@@ -254,8 +254,8 @@ Preguntas:
        
   
 Realiza la maquetación del siguiente ejemplo de página: (se aplica la rúbrica de la maquetación en código html, valor 18)
-  
-![image](https://user-images.githubusercontent.com/91554777/164575358-76757050-5393-44a3-a075-0583e749b4e8.png)
+  ![image](https://user-images.githubusercontent.com/101213081/165131240-a2a97115-52e6-4aeb-8c93-e1af3ef58c7b.png)
+
 
         
 
