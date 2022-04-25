@@ -57,8 +57,9 @@ Objetivo: Verificar el dominio del concepto de web semántica y su estructura.
 Indicaciones: Pedir responder o seleccionar la respuesta correcta según sea el caso.
 Preguntas:
 
-1. ¿Menciona brevemente qué es una etiqueta y qué es un elemento? (valor 0.6)etiqueta = apertura y cierre. Elento= es la estructura más grande etiqueta, inicio, contenido y etiqueta de finaliazar
+1. ¿Menciona brevemente qué es una etiqueta y qué es un elemento? (valor 0.6)° Etiqueta: <> apertura y cierre</> NOS Permiten estructurar el cuerpo de una página  con                                                                                una semantica especifica para cada elemento.
 
+                                                                             °  Elemento: tienen un significado simple y claro para el navegador y para el                                                                                                                                                                       desarrollador. 
 2. ¿Qué significa la semántica en el contexto de HTML5? (valor 0.3)
 a) Las etiquetas HTML semánticas dan un significado extra al contenido de la
 etiqueta
