@@ -31,7 +31,7 @@ una hoja de estilo externa? (valor 0.25)
           
  5. ¿Qué atributo HTML se usa para definir estilos en línea? (valor 0.25)
 
-          b) styles
+          b) style
           
  6. ¿Cuál es la sintaxis CSS correcta? (valor 0.25)
 
