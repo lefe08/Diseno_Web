@@ -72,7 +72,7 @@ una hoja de estilo externa? (valor 0.25)
  12. ¿Cuál es la sintaxis CSS correcta para poner en negrita todos los elementos p?(valor 0.25)
   
           
-          d) <p style=\"font-size:bold;\">
+      c) p { font-weight:bold;}
   
 13. ¿Cómo hacer que cada palabra en un texto comience con una letra mayúscula? (valor 0.25)
   
