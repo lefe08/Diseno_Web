@@ -146,7 +146,7 @@ El borde derecho = 1 píxel
  24.¿Cómo se hace una lista que enumere sus elementos con cuadrados? (valor 0.25)
  
             
-            b) list: square;
+           c) list-style-type:square;
           
             
 Realiza la maquetación del siguiente ejemplo de página: (se aplica la rúbrica de la
