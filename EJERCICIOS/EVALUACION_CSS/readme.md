@@ -140,7 +140,7 @@ El borde derecho = 1 píxel
             
 23. ¿Cuál es el valor predeterminado de la propiedad posición? (valor 0.25)
 
-            a) absolute
+           d) static
            
             
  24.¿Cómo se hace una lista que enumere sus elementos con cuadrados? (valor 0.25)
