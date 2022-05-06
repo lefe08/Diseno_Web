@@ -91,8 +91,7 @@ una hoja de estilo externa? (valor 0.25)
 15. ¿Cómo pones el texto en negrita? (valor 0.25)
   
          
-          b) font:bold;
-         
+         c) font-weight:bold;
   
 16. ¿Cómo se muestra un borde como este? (valor 0.25)
 
