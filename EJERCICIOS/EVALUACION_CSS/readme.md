@@ -22,8 +22,7 @@ Preguntas:
 3. ¿En qué parte de un documento HTML es el lugar correcto para hacer referencia a
 una hoja de estilo externa? (valor 0.25)
 
-          
-        a) En la secciòn <head)>
+           a) En la secciòn <head) 
           
  4. ¿Qué etiqueta HTML se utiliza para definir una hoja de estilo interna? (valor 0.25)
  
