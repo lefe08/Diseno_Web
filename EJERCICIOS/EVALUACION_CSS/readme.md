@@ -119,7 +119,7 @@ El borde derecho = 1 píxel
  19. ¿Cómo se selecciona un elemento con id 'demo'? (valor 0.25)
  
            
-            b) #demo
+          a) *demo
            
 20.¿Cómo se seleccionan elementos con el nombre de clase 'test'? (valor 0.25)
 
