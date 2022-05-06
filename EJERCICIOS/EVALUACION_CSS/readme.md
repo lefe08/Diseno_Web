@@ -113,7 +113,7 @@ El borde derecho = 1 píxel
 18. Al usar la propiedad de relleno (padding); ¿Está permitido usar valores negativos? (valor 0.25)
 
             
-            b) Sí
+            a)no
            
             
  19. ¿Cómo se selecciona un elemento con id 'demo'? (valor 0.25)
