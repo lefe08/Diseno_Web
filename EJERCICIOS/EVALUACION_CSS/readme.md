@@ -23,7 +23,7 @@ Preguntas:
 una hoja de estilo externa? (valor 0.25)
 
           
-          c) Al final del documento
+        a) En la secciòn <head)>
           
  4. ¿Qué etiqueta HTML se utiliza para definir una hoja de estilo interna? (valor 0.25)
  
