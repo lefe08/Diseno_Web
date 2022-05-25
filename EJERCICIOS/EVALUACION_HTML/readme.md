@@ -88,15 +88,16 @@ material en el que se encuentra (como una barra lateral)? (valor 0.3)
   
 Los siguientes ejemplos de elementos son incorrectos. Describe lo que está mal con cada
 uno, y luego escríbelo correctamente. (cada respuesta vale 0.3, en total suman 1.2)
-  
-           <a href="file.html">Enlace de texto</a h>
-           <p>Esto es un párrafo<\p>
-           <img "birthday.jpg">
-           
-        1. <img "birthday.jpg">
-        2. <i>Congratulations!<i>
-        3. <a href="file.html">Enlace de texto</a href="file.html">
-        4. <p>Esto es un párrafo<\p>
+         ejercicio resuelto
+  *     1. <img src "birthday.jpg">
+  *     2. <i>Congratulations!</i>
+  *     3. <a href="file.html">Enlace de texto</a>
+  *     4. <p>Esto es un párrafo</p> 
+          
+        1. <img "birthday.jpg"> ( FALTA src )
+        2. <i>Congratulations!<i>( FALTA LA DIAGONAL)
+        3. <a href="file.html">Enlace de texto</a href="file.html">( FALTA SIGNO PARA CERRAR Y TIENE PALABRAS DE MÁS  href="file.html">)
+        4. <p>Esto es un párrafo<\p>  ( LA DIAGONAL ESDIFERENTE)
 
  Indicaciones: La siguiente imagen muestra el contenido de la página web del periodico
 The New York Times. Coloca los elementos semánticos de HTML5 dentro de cada uno de
