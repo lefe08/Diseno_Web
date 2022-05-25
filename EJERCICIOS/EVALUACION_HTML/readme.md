@@ -275,6 +275,11 @@ Realiza la maquetación del siguiente ejemplo de página: (se aplica la rúbrica
 
 ![imagen](https://user-images.githubusercontent.com/101213081/170337658-5e2d5653-0992-4fe4-a5a6-0c1d7e480485.png)
 
+
+
+![imagen](https://user-images.githubusercontent.com/101213081/170363927-e394ceda-f7c4-436f-8106-9172d02b6c11.png)
+
+
         
 
   Debes tener en cuenta los siguientes requisitos:
