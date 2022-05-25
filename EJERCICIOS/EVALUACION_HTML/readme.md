@@ -85,6 +85,15 @@ material en el que se encuentra (como una barra lateral)? (valor 0.3)
         d) span
   
 5. ¿Menciona al menos 6 elementos semánticos en html5 y descríbelos brevemente? (valor 1.5)
+1: header( cabecera visual de la página, logotipo título)
+2: footer(pie de página de una sección( o del documento completo)
+3: main(contenedor para englobar la parte principal de la página)
+4: títle(título de la página(pestaña o título del navegador o en buscadores).
+5: aside(agrupación de contenido no relacionado con el tema principal del documento)  se    encuentra(como una barra lateral)
+6: nav(Apartado de navegACIÓN(enlaces de secciones categorías etc)
+7: hr(indica una separación temática del texto)
+8:figure(Establece una figura, que puede contener una serie de elementos diversos)
+9: article(articulo.parte principal de un escrito(posts mensaje en foros,comentado)
   
 Los siguientes ejemplos de elementos son incorrectos. Describe lo que está mal con cada
 uno, y luego escríbelo correctamente. (cada respuesta vale 0.3, en total suman 1.2)
@@ -122,7 +131,7 @@ Preguntas:
     
        
        
-       a)heading
+       d)h1
     
 3. ¿Cuál es el elemento HTML correcto para insertar un salto de línea? (valor 0.24)
 
