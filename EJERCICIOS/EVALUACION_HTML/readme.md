@@ -281,8 +281,6 @@ Realiza la maquetación del siguiente ejemplo de página: (se aplica la rúbrica
 
 ![image](https://user-images.githubusercontent.com/101213081/170393448-2e0ed1ed-5d9c-4ea5-9e54-1cb0104a9ef2.png)
 
-![imagen](https://user-images.githubusercontent.com/101213081/170548764-255bc49c-ff56-417d-896e-02c09c5a3ab1.png)
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
