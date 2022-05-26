@@ -283,7 +283,54 @@ Realiza la maquetación del siguiente ejemplo de página: (se aplica la rúbrica
 
 ![imagen](https://user-images.githubusercontent.com/101213081/170548764-255bc49c-ff56-417d-896e-02c09c5a3ab1.png)
 
-        
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="Stylesheet" href="css/ESTILOS.CSS">
+    <title>Evaluación HTML</title>
+</head>
+<body>
+    <header>
+        <h1>ENCABEZADO NIVEL 1</h1>
+        <nav>
+            <ul>
+                <a href="#">ENLACE 1</a>
+                <a href="#">ENLACE 2</a>
+                <a href="#">ENLACE 3</a>
+                <a href="#">ENLACE 4</a>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Encabezado nivel 2</h2>
+            <p>Aquí va texto del primer <b>párrafo</b></p>
+            <p>Aquí va texto del segundo párrafo</p>
+            <aside>
+                <h2>Apartado</h2>
+                <p>Elije una opción</p>
+                <form>
+                    <br>
+                        <input type="checkbox" name="opcion">Opcion 1<br>
+                        <input type="checkbox" name="opcion">Opción 2<br>
+                        <input type="checkbox" name="opcion">Opción 3<br>
+                        <br>
+                        <input type="submit" name="Enviar" value="Enviar">
+                </form>
+            </aside>
+        </section>
+    </main>
+    <footer>
+        <p>Sección de información de contacto, derechos de autor, etc.</p>
+    </footer>
+</body>
+</html>
+
+![image](https://user-images.githubusercontent.com/101213081/170577643-a9d1c31d-7d1c-4f79-9d0f-74c63c533e14.png)
+
 
   Debes tener en cuenta los siguientes requisitos:
   
