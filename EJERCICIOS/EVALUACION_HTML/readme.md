@@ -19,10 +19,11 @@ Preguntas:
 5. ¿Cuál es la función del motor de renderizado de un navegador web? (valor 1.0) traducir esos datos en texto e imagenes , escritos en lenguaje de marcas de hipertexto html y los navegadores web leen este código para construir lo que vemos.
 
 6. Menciona al menos 2 tecnologías de software para el desarrollo de páginas web y explícalas brevemente (valor 1.0)
-°-CSS: es un lenguaje que sirve, sobre todo para indicar la representacion visual de las estructuras HTML. sirve para acortar y trazar el aspecto visual de las 
-etiquetas generadas por el HTML.
+7. 
+* 1°-CSS: es un lenguaje que sirve, sobre todo para indicar la representacion visual de las estructuras HTML. sirve para acortar y trazar el aspecto visual de las 
+          etiquetas generadas por el HTML.
 
-°-PHP:Se usa  para la comunicación de un sitio web con un servidor de Datos.Es posible crear un contenido dinámico que permite trabajar con bases de datos como MYSQL y con HTML.
+*  2°-PHP:Se usa  para la comunicación de un sitio web con un servidor de Datos.Es posible crear un contenido dinámico que permite trabajar con bases de datos como                MYSQL y con HTML.
 
 ## 2. HERRAMIENTAS PARA LA CREACIÓN DE PÁGINAS WEB
 
