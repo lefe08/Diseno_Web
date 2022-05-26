@@ -277,7 +277,7 @@ Realiza la maquetación del siguiente ejemplo de página: (se aplica la rúbrica
 
 
 
-![imagen](https://user-images.githubusercontent.com/101213081/170363927-e394ceda-f7c4-436f-8106-9172d02b6c11.png)
+![image](https://user-images.githubusercontent.com/101213081/170393448-2e0ed1ed-5d9c-4ea5-9e54-1cb0104a9ef2.png)
 
 
         
