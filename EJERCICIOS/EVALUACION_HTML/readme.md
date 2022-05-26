@@ -241,6 +241,7 @@ Preguntas:
   
 
        
+![imagen](https://user-images.githubusercontent.com/101213081/170548424-df5a4795-da44-4aae-bed4-5f82728457e4.png)
         b) Falso
   
 21. ¿Qué elemento HTML define el título de un documento? (valor 0.24)
