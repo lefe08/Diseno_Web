@@ -2,8 +2,9 @@ Vamos a realizar el siguiente diseño
 
 ![image](https://user-images.githubusercontent.com/91554777/171076942-0cfc5018-0ae3-4caf-96d7-9ba19ee2f6cb.png)
 
+![image](https://user-images.githubusercontent.com/101213081/171261481-c08b3e55-3e64-4672-a1c8-58aa1c6714d4.png)
 
-aqui esta el texto necesitado para que lo copies.
+aqui esta el texto necesario para que lo copies.
 
 
 
