@@ -221,9 +221,9 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
 
         
           
-          
+          **
           INGRESA AQUI EL CSS
-          ##
+          
            *{
         margin: 0;
         padding: 0;
