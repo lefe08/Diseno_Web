@@ -106,8 +106,7 @@ El borde derecho = 1 píxel
           
 17. ¿Qué propiedad se usa para cambiar el margen izquierdo de un elemento? (valor 0.25)
 
-          a) padding-left
-         
+b) margin-lef         
           
 18. Al usar la propiedad de relleno (padding); ¿Está permitido usar valores negativos? (valor 0.25)
 
@@ -116,11 +115,9 @@ El borde derecho = 1 píxel
            
             
  19. ¿Cómo se selecciona un elemento con id 'demo'? (valor 0.25)
- 
+ b)  #  demo
            
-          a) *demo
-           
-20.¿Cómo se seleccionan elementos con el nombre de clase 'test'? (valor 0.25)
+ 20.¿Cómo se seleccionan elementos con el nombre de clase 'test'? (valor 0.25) 
 
             
             b) .test
