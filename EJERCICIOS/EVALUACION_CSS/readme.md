@@ -174,17 +174,19 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
 -El texto alternativo para la primer imagen imagen debe ser “Gobierno de la Ciudad de México”
 
 
-          INGRESA AQUI EL CÓDIGO HTML <!Doctype html>
+          INGRESA AQUI EL CÓDIGO HTML 
+  **              
+                <!Doctype html>
 <html lang="en">
 <head>
      <meta charset="UTF-8">
      <meta http-equiv="X-UA-compatible" content="IE=edge">
-     <meta name ="viewport"content="width="device-width,initial-scale=1.0>
+     <meta name ="viewport"content="width="device-width,initial-scale= "1.0">
      <title>evaluacion</title>
      <link rel="stylesheet" href="css/estilos.css">
      <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
 </head>
 <body>
     <header>
@@ -200,23 +202,24 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
                   <li>Gobierno</li>
              </ul>
          </nav>
-     </header>  
+    </header>  
      <main>
          <div class="texto">
              <p>
-               <span> <b></span>APRENDER A PROGRAMAR <br> EN LAS <span><b>ESCUELAS <br> DE CÓDIGO</b></span> <br>DE LA CDMX
+               <span> <b></span>APRENDER A PROGRAMAR <br> EN LAS <span><b>ESCUELAS <br> DE CÓDIGO</b></span> <br>DE LA  CDMX
 
              </P>
          </div>
      </main>
      <footer>
          <h3>¿Quién se puede inscribir? </h3>
-         <p class="parrafo"><b>Cualquier persona que quiera aprender a programar código y cuente con 4-8 horas disponibles a la 
- sema</footer>
+         <p class="parrafo"><b>Cualquier persona que quiera aprender a programar código y cuente con 4-8 horas disponibles a la semana.
+     </footer>
 </body>
 </html>
 
-          
+
+     **     
           
           
           INGRESA AQUI EL CSS
@@ -240,40 +243,41 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
         margin-left: 70%;
         margin-top: 10px;  
         margin-top: 10px;
-    }
-    li{margin-right: 20px;
+     }
+     li{margin-right: 20px;
         color: rgb(4, 68, 4);
         font: bolder;
-    }
-    main{background: url("../img/hero.jpg");
-    background-size: cover;
-    padding: 50px;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-top: 20px;
-    }
-    .texto{width: 50%;
+     }
+     main{background: url("../img/hero.jpg");
+     background-size: cover;
+     padding: 50px;
+     margin-left: 20px;
+     margin-right: 20px;
+     margin-top: 20px;
+     }
+     .texto{width: 50%;
         text-align: right;
-    }
-    .flecha{font-size: 70px;
-    font: bolder;
-    color: white;
-    }
-    p{color: rgb(56, 56, 56);
-    font: bold;
-    font-size: 50px;
-    font: bolder;
-    }
-    span{font-size: xx-large;
-    font-size: 70px;
-    font: bolder;}
-    footer{text-align: center;
-    }
-    h3{color: rgb(224, 149, 35);
+     }
+     .flecha{font-size: 70px;
+     font: bolder;
+     color: white;
+     }
+     p{color: rgb(56, 56, 56);
+     font: bold;
+     font-size: 50px;
+     font: bolder;
+     }
+     span{font-size: xx-large;
+     font-size: 70px;
+     font: bolder;}
+     footer{text-align: center;
+     }
+     h3{color: rgb(224, 149, 35);
         margin-top: 20px;
-    }
-    .parrafo{color: rgb(56, 56, 56);
-    font-size:15px;}  
+     }
+     .parrafo{color: rgb(56, 56, 56);
+     font-size:15px;}  
+
  
 
           
