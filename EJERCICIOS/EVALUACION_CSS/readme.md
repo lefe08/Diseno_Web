@@ -173,10 +173,13 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
 
 -El texto alternativo para la primer imagen imagen debe ser “Gobierno de la Ciudad de México”
 
-
-          INGRESA AQUI EL CÓDIGO HTML 
-  **              
-                <!Doctype html>
+                               INGRESA AQUI EL CÓDIGO HTML 
+       
+       
+       
+       
+       
+<!Doctype html>
 <html lang="en">
 <head>
      <meta charset="UTF-8">
@@ -219,9 +222,14 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
 </html>
 
 
-        
           
-          **
+          
+          
+          
+          
+          
+          
+          
           INGRESA AQUI EL CSS
           
            *{
