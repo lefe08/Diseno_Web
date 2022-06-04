@@ -115,7 +115,9 @@ b) margin-lef
            
             
  19. ¿Cómo se selecciona un elemento con id 'demo'? (valor 0.25)
- b)  #  demo
+
+
+       b)  # demo
  
  
            
@@ -173,11 +175,11 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
 
 -El texto alternativo para la primer imagen imagen debe ser “Gobierno de la Ciudad de México”
 
-                               INGRESA AQUI EL CÓDIGO HTML 
-       
-       
-       
-       
+
+
+
+                               INGRESA AQUI EL CÓDIGO HTML
+                     
        
 <!Doctype html>
 <html lang="en">
@@ -220,17 +222,7 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
      </footer>
 </body>
 </html>
-
-
-          
-          
-          
-          
-          
-          
-          
-          
-          INGRESA AQUI EL CSS
+                INGRESA AQUI EL CSS
           
            *{
         margin: 0;
