@@ -174,7 +174,13 @@ Imagen paisaje de la Ciudad de México
 https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/assets/hero.jpg
 
 -El texto alternativo para la primer imagen imagen debe ser “Gobierno de la Ciudad de México”
-                 INGRESA AQUI EL CÓDIGO HTML    
+
+
+
+
+                               INGRESA AQUI EL CÓDIGO HTML
+                     
+       
 <!Doctype html>
 <html lang="en">
 <head>
@@ -217,7 +223,7 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
 </body>
 </html>
                 INGRESA AQUI EL CSS
-         
+          
            *{
         margin: 0;
         padding: 0;
