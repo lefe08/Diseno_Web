@@ -173,15 +173,16 @@ Imagen del vector blanco que se encuentra antes del texto “Aprende a programar
 Imagen paisaje de la Ciudad de México
 https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/assets/hero.jpg
 
--El texto alternativo para la primer imagen imagen debe ser “Gobierno de la Ciudad de México”
-
-
-
-
-                               INGRESA AQUI EL CÓDIGO HTML
+-El texto alternativo para la primer imagen imagen debe ser “Gobierno de la Ciudad de Mé
+INGRESA AQUI EL CÓDIGO HTML
                      
 
-                INGRESA AQUI EL CSS
+               
+               
+               
+               
+               INGRESA AQUI EL CSS
+                
           
            *{
         margin: 0;
